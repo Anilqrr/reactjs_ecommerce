@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "pname":"samsung",
+        "price":1999,
+        "image":"./products_images/Redmi.jpg",
+        "category":"tv"
+    },
+    {
+        "id":2,
+        "pname":"iPhone 14 pro max",
+        "price":2999,
+        "image":"./products_images/Redmi.jpg",
+        "category":"phone"
+    },
+    {
+        "id":3,
+        "pname":"Redmi Note 12",
+        "price":999,
+        "image":"./products_images/Redmi.jpg",
+        "category":"phone"
+    },
+    {
+        "id":4,
+        "pname":"hp",
+        "price":199,
+        "image":"./products_images/Redmi.jpg",
+        "category":"laptop"
+    },
+    {
+        "id":5,
+        "pname":"Rolex",
+        "price":1999,
+        "image":"./products_images/Redmi.jpg",
+        "category":"clock"
+    },
+    {
+        "id":6,
+        "pname":"Dell Computer",
+        "price":2999,
+        "image":"./products_images/computer.jpg",
+        "category":"computer"
+    }
+]
